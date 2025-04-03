@@ -12,3 +12,14 @@ Ring counters are commonly used in applications such as:
 • Control logic for finite state machines 
 
 • LED chasers or display systems
+
+![image](https://github.com/user-attachments/assets/86ff1b38-a5ac-4058-8f37-539f35183b5e)
+
+
+**simulation results:**
+
+![image](https://github.com/user-attachments/assets/803190d9-0dd9-4178-8493-f0637fe2aab6)
+
+
+
+
