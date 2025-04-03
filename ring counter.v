@@ -5,7 +5,7 @@ module ring_counter(
   reg [3:0] data_reg;
   always@(posedge clk or posedge reset) begin
     if(reset) begin
-      data_reg<=4'b0000;
+      data_reg<=4'b0001;
     end
     else begin
       data_reg<={data_reg[0],data_reg[3:1]};
